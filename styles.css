@@ -11,8 +11,8 @@ text-align: center;
 }
 #image{
   
- height: 630px;
- max-width: 400px;
+ height: auto;
+ max-width:100%;
 }
 
 .bold{
