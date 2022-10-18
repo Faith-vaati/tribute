@@ -10,7 +10,7 @@ text-align: center;
   
 }
 #image{
-  
+  display: block;
  height: auto;
  max-width:100%;
 }
